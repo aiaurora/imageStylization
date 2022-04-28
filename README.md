@@ -1,5 +1,6 @@
 #已放在colab測試，增加雲端硬碟指令。(20220406)
-#可拿https://aiaurora.github.io/rapid_style_transfer/的東西做測試比較。(20220406)
+#可拿https://aiaurora.github.io/rapid_style_transfer/
+做測試比較。(20220406)
 
 Automatic Image Stylization using Neural Style Transfer.
 
